@@ -1,0 +1,7 @@
+.cartwrapper{
+  border: 2px solid red;
+}
+.imgwrappper>img{
+  border: 2px solid red;
+  width: 200px;
+}

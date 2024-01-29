@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Myform{
+    /* border: 2px solid yellow; */
+    margin-left: 40%;
+}
+.Myinput{
+    border: 2px solid red;
+    width: 20vw;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;   
+    text-align: center; 
+}
+.Myform .Mybtn{
+border: 2px solid green;
+margin-left: 5%;
+width: 10%;
+height: 5vh;
+font-size: 17px;
+border-radius: 5px;
+}

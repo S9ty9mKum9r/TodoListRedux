@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Mylist{
+    /* border: 2px solid red; */
+    justify-content: center;
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    
+}
+.myList{
+    margin-bottom: 12px;
+}
+.Mymaindiv{
+    /* border: 2px solid green; */
+    width: 45%;
+    margin-left: 26%;
+    /* margin-bottom: 10px; */
+}
+.Mymaindiv li {
+    list-style-type: none;
+    justify-content: space-between;
+}
+#Myinput1{
+    border: 2px solid red;
+    width: 70%;
+    height: 4vh;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+.Mybtn{
+    border: 2px solid green;
+margin-left: 5%;
+width: 25%;
+height: 4vh;
+font-size: 17px;
+border-radius: 5px;
+}
+.Mybtn:hover{
+    background-color: #70b3df;
+}
